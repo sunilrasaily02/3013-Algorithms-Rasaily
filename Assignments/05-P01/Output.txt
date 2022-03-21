@@ -1,1 +1,27 @@
+=====================
 
+Program-01
+Cmps 3013
+Sunil Rasaily
+config param :
+Full threshHold : 0.85
+Shrink threshHold : 0.15
+Grow Ratio : 2
+Shrink Ratio : 0.5
+
++++++++++++++++++++
+
+Processes 100000 commands
+Total number of pushes      = 49918
+Toatl number of pops        = 50082
+
++++++++++++++++++++
+
+Total number of enlargments = 132
+Total number of shrinks     = 126
+The max size ever for the array == 640
+The current size of the array == 640
+The top value == 56573200
+Number of elements in the array == 414
+
+.=====================
